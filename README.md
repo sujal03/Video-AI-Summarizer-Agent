@@ -12,7 +12,7 @@ The Video AI Summarizer Agent analyzes video content using AI algorithms to extr
 - User-friendly Streamlit interface
 
 ## Demo 📺
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EqFJbIXWviE" title="Project Demo" frameborder="0" allowfullscreen></iframe>
+[![Project Demo](https://img.youtube.com/vi/EqFJbIXWviE/0.jpg)](https://www.youtube.com/watch?v=EqFJbIXWviE)
 
 ## Tech Stack 💻
 - Python 3.7+
